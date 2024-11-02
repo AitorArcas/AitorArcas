@@ -5,8 +5,7 @@ Hi, I'm Aitor Arcas
 
 <h2> About Me 👨🏻‍💻 </h2>
 <p>I'm 23-year old, Systems Technician and Self-taught Full-Stack developer.
-<br>
-<br>
+<li>🔭 I’m currently working on my portfolio and other personal projects.</li>
 <li>🎓 I am a learning <strong>JavaScript && Java</strong>. </li>
 <li>
   📫 How to reach me:
@@ -37,6 +36,25 @@ Hi, I'm Aitor Arcas
 ## Other knowledge 🧠
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<!-- ## Projects 🚀
+Crear una tabla donde aparezca las tecnologias utilizadas en la primera linea y un link en la segunda linea 
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)]()
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>IMG Skill</th>
+      <td>Link to the Project</td>
+    </tr>
+  </tbody>
+</table>
+-->
 
 <h2>GitHub Analytics ⚙️ </h2>
 <p align="center">
