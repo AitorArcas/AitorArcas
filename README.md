@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="60"/>
+Hi, I'm Aitor Arcas
+</h1> 
 
 <!--
 **AitorArcas/AitorArcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
